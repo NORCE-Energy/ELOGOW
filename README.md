@@ -1,5 +1,6 @@
 # ELOGOW
-This repository contains the first version of a modelica model that has been used for a conference paper in 14th modelica conference
+Code used for conference article in 14th modelica conference
+with title 'An Approach for Reducing Gas Turbines Usage by Wind Power and Energy Storage'
 
 ## Setup
 Before your run the model, edit the path in the package ELOGOW to use the data used for the simulation. 
