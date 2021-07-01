@@ -11,3 +11,7 @@ Before your run the model, edit the path in the package ELOGOW to use the data u
   import SI = Modelica.SIunits;
   constant String files = Modelica.Utilities.Files.loadResource("put the path here \\ELOGOW\\src\\modelica\\Models\\data\\");
 ```
+
+## Model
+
+![](Sim.svg)
