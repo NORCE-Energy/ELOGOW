@@ -1,8 +1,8 @@
-﻿package ELOGOW
+package ELOGOW
   // CP: 65001
   // SimulationX Version: 4.2.2.68604
   import SI = Modelica.SIunits;
-  constant String files = Modelica.Utilities.Files.loadResource("put the path here \\ELOGOW\\src\\modelica\\Models\\data\\");
+  constant String files = Modelica.Utilities.Files.loadResource("modelica://ELOGOW/data/");
 
   package Batteries
     block LB
